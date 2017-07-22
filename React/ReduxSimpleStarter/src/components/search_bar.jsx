@@ -5,7 +5,7 @@ export class SearchBar extends React.Component {
     constructor(props) {
         super(props);
 
-        this.state = { term: 'direwolf20' };
+        this.state = { term: 'Twisty Puzzle' };
     }
 
     render() {
